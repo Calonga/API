@@ -1,15 +1,15 @@
 {
-  " Emitente " : [
+  "emitente" : [
     { " id " : 1 , " CNPJ " : " 13.398.389/0001-30 " , " Identidade"  : " Renan Calonga LTDA" ,  "Operação" : "Saída" , " Chave " : "225533448866554422445577"},
     { " id " : 2 , " CNPJ " : " 32.398.389/0001-40 " , " Identidade"  : " Renan Calonga LTDA" ,  "Operação" : "Saída" , " Chave " : "225533448866554422445583"},
     { " id " : 3 , " CNPJ " : " 52.398.389/0001-50 " , " Identidade"  : " Renan Calonga LTDA" ,  "Operação" : "Saída" , " Chave " : "225533448866554422445545"},
   ],
-  " Rementente " : [
+  "rementente" : [
     { " id " : 1 , " CNPJ " : " 62.398.389/0001-33 " , " Identidade"  : " Renan Calonga LTDA" ,  "Operação" : "Saída" , " Chave " : "225533448866554422445545"},
     { " id " : 2 , " CNPJ " : " 82.398.389/0001-77 " , " Identidade"  : " Renan Calonga LTDA" ,  "Operação" : "Saída" , " Chave " : "225533448866554422445545"},
 	
   ],
-  " item " : {
+  "item" : {
     " id" : " 1 " , " Descrição " : " O proponente deverá apresentar, na proposta, declaração informando que os Teclados ofertados são novos (sem uso) e estão em fase normal de fabricação." , "NCM" : "8471.60.53" , " CST " : " 8554 " , " CFOP " : " 1014 " , " CST_PIS " : " 100 " , " CST_COFINS " : " 350,00 " , " QTD " : " 350 " , " VALO_UNIT " : " 10 " , " BC_ICMS " : " 6 " , " ALIQ_ICMS "  : " 100 " , " VALOR_ICMS " : " 26 " , " ALIQ_API " : " 23,00 " , " VALOR_API " : " 12,00 " , " VALOR_TOTAL " : " 80.000,00 "                          
   }
 }
